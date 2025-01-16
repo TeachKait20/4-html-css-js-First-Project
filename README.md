@@ -1,5 +1,5 @@
 # 4-html-css-js-First-Project
-## Первый проект 
+## Первый проект
 
 <img src="https://github.com/TeachKait20/NoneCode/blob/main/first-prod-html/sch.gif?raw=true">
 
